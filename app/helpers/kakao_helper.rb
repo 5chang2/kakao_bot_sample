@@ -1,0 +1,2 @@
+module KakaoHelper
+end
